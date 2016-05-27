@@ -1,0 +1,17 @@
+# global settings
+title: "Pacific Fiduciary Services"
+description: ""
+
+# build settings
+exclude: ["script", "vendor", "bower.json", "Gemfile", "Gemfile.lock", "Rakefile", "readme.md", "package.json"]
+markdown: kramdown
+highlighter: rouge
+
+# Front Matter defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
