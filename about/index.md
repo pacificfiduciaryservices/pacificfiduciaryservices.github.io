@@ -1,8 +1,8 @@
 ---
-title: About Us
+title: About
 ---
 
-# About Us
+# About
 
 ## Person Placeholder
 <img class="pull-left" src="/images/portrait-placeholder.png" alt="Person Placeholder">

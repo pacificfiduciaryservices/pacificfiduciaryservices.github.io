@@ -1,8 +1,8 @@
 ---
-title: Contact Us
+title: Contact
 ---
 
-# Contact Us
+# Contact
 
 ### Phone
 <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> [(123) 555-4567](tel:1235554567)
