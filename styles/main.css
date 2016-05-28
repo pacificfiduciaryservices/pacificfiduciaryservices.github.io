@@ -1,0 +1,6 @@
+.navbar {
+  margin-bottom: 5px;
+}
+.navbar-inverse .navbar-brand {
+  color: #fff;
+}
