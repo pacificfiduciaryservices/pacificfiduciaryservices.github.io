@@ -1,5 +1,5 @@
 ---
-title: {{ site.title }} - About Us
+title: About Us
 ---
 
 # About Us

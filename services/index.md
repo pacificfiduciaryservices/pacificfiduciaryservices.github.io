@@ -1,5 +1,5 @@
 ---
-title: {{ site.title }} - Services
+title: Services
 ---
 
 # Services

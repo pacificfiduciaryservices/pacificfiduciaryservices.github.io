@@ -5,6 +5,8 @@ description: ""
 # build settings
 exclude: ["script", "vendor", "bower.json", "Gemfile", "Gemfile.lock", "Rakefile", "readme.md", "package.json"]
 markdown: kramdown
+kramdown:
+  input: GFM
 highlighter: rouge
 
 # Front Matter defaults
@@ -15,3 +17,14 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+
+# Site Navigation
+navigation:
+  - text: Home
+    url: /
+  - text: Services
+    url: /services/
+  - text: About
+    url: /about/
+  - text: Contact
+    url: /contact/

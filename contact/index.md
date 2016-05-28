@@ -1,5 +1,5 @@
 ---
-title: {{ site.title }} - Contact Us
+title: Contact Us
 ---
 
 # Contact Us
