@@ -6,7 +6,7 @@ title: About
 
 <div class="row">
   <div class="col-md-3">
-    <img class="pull-left" src="/images/portrait-placeholder.png" alt="Person Placeholder">
+    <img class="img-responsive" src="/images/portrait-placeholder.png" alt="Person Placeholder">
   </div>
   <div class="col-md-9">
     <h2 class="about-name">Person Name</h2>
